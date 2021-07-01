@@ -7,6 +7,7 @@ I used JavaScript due to its ability to carry out logical operations.
 Problems I faced are like:
 * Lack of effecient indexing.
 * Lacks proper styling.
+* Cannot use JavaScript.
 ***
 ## INSTALLATION
 ***
